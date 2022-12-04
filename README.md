@@ -9,7 +9,8 @@ This is a collaborative project with other students at the University of Melbour
 * Using subqueries in FROM statements
 * Using multiple Common Table Expressions (CTEs)
 
-![Uploading Assignment 2 - Trade Summary Report - Bruce, Eddie, Kriti, Nyasinga-1.png…]()
+![Assignment 2 - Trade Summary Report - Bruce, Eddie, Kriti, Nyasinga-1](https://user-images.githubusercontent.com/94946621/205479896-e2e1a516-900d-4653-9774-759867fdff4c.png)
+
 
 ## Statement of originality 
 Aside from the dataset, which was provided by the University of Melbourne, I hereby declare that the work presented in this project is an outcome of my independene and original work. The project is free from any plagiarism and has not been submitted elsewhere for publication.
